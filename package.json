@@ -1,0 +1,26 @@
+{
+  "type": "commonjs",
+  "name": "nabila-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "^18"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^127.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "json-bigint": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer-core": "^23.1.1",
+    "uuid": "^10.0.0"
+  }
+}
